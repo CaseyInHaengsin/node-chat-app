@@ -17,7 +17,5 @@ describe('generateMessage', () => {
             expect(message).toMatchObject({from, text});
             
 
-
-
     });
 });
